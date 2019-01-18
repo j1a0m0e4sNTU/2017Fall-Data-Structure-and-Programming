@@ -1,0 +1,16 @@
+cirr ./tests.fraig/sim10.aag
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 660
+cirg 753
+cirg 0
+cirg 2
+cirg 660 -fani 10
+cirg 753 -fani 50
+cirg 0 -fano 50
+cirg 2 -fano 1
+cirw
+q -f
